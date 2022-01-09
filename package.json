@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^0.23.0",
+    "excel4node": "^1.7.2",
+    "jsdom": "^18.0.0",
+    "minimist": "^1.2.5",
+    "pdf-lib": "^1.17.0"
+  }
+}
